@@ -266,3 +266,43 @@ h1{
 .access-line{
     text-align: center;
 }
+
+.footer-sec
+{
+     width: 100%;
+    max-width: 1600px;
+    height: 244px;
+     padding-top: 70px;
+    
+   
+}
+
+.footer-container{
+  
+    background-color: #001931;
+    display: flex;
+    gap: 647px;
+    
+    text-align: center;
+    justify-content: space-around;
+
+    height: 246px;
+    padding-top: 120px;
+
+   
+   
+}
+
+.copyright{
+
+    background-color: #001931;
+
+    text-align: center;
+}
+
+.copyright{
+
+    padding-top: 26px;
+    
+}
+
