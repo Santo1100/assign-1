@@ -215,3 +215,54 @@ h1{
 
     margin: auto auto auto 138px;
 }
+
+#id{
+
+    width: 76%;
+    max-width: 1642px;
+    margin: 0 auto;
+}
+
+.access{
+
+
+    background-color: #F7F6F2;
+    
+    width: 934px;
+    /* border: 1px  solid black; */
+    margin: 0 auto;
+    
+
+
+
+    
+}
+
+
+
+.access-h1{
+
+    font-size: 40px;
+      height: 40px;
+      padding-bottom: 16px;
+      display: table-cell;
+      vertical-align: middle;
+      text-align: center;
+}
+
+.access-p{
+
+    text-align: center;
+}
+
+.access-button{
+
+    text-align: center;
+    position: relative;
+    right: 213px;
+    padding-top: 32px;
+    padding-bottom: 16px;
+}
+.access-line{
+    text-align: center;
+}
